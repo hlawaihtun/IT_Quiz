@@ -1,0 +1,6 @@
+/*** Question ***/
+=> questions
+			=> category_id unsignedBigInteger
+			=> level_id unsignedBigInteger
+			=> question_name varchar
+			
